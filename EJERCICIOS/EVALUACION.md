@@ -57,6 +57,9 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 
 
+
+
+
 Sucursales: domicilio, teléfono y un código de sucursal.
 
 Empleado: nombre, apellidos, NIF y teléfono.
@@ -68,4 +71,10 @@ periodistas: nombre periodista, apellidos periodista , NIF periodista y teléfon
 Secciones: título y una extensión.
 
 revista: fecha, número de páginas y el número de ejemplares vendidos.
+
+
+
+
+![Modelo relacional - bd editorial](https://user-images.githubusercontent.com/104279978/170846080-64e5b61a-edc4-48a5-8050-cc21b1184d9b.jpg)
+
 
