@@ -53,3 +53,19 @@ constan de un título y una extensión.
 
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
+
+
+
+
+Sucursales:  domicilio, teléfono y un código de sucursal.
+
+Empleado: nombre, apellidos, NIF y teléfono.
+
+revistas: título, número de registro, periodicidad y tipo.
+
+periodistas: nombre periodista, apellidos periodista , NIF periodista y teléfono periodista.
+
+Secciones: título y una extensión.
+
+revista: fecha, número de páginas y el número de ejemplares vendidos.
+
