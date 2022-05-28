@@ -57,7 +57,7 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 
 
-Sucursales:  domicilio, teléfono y un código de sucursal.
+Sucursales: domicilio, teléfono y un código de sucursal.
 
 Empleado: nombre, apellidos, NIF y teléfono.
 
