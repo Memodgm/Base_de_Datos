@@ -78,7 +78,7 @@ revista: fecha, número de páginas y el número de ejemplares vendidos.
 ![Modelo relacional - bd editorial](https://user-images.githubusercontent.com/104279978/170846080-64e5b61a-edc4-48a5-8050-cc21b1184d9b.jpg)
 
 
-# Código dela  Base de datos
+# Código de la  Base de datos
 
 
 https://www.db-fiddle.com/f/bSm7FhX5VnCJ6Gu2H4d55t/2
