@@ -52,13 +52,13 @@ No toda la información debe estar disponible a todo usuario, se requiere un per
 
 ## 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas operaciones sobre estos archivos, tales como: (valor 1.5)
 
-
+Obtener datos de archivos existentes , agregar nuevos archivos a la base de datos, eliminar y actualizar. 
 
 
 
 ## 4. ¿Qué es un Sistema de Información? (valor 1.5)
 
-
+Conjunto de elementos orientados al tratamiento y administración de datos e información, organizados y listos para su posterior uso, generados para cubrir alguna necesidad.
 
 
 
