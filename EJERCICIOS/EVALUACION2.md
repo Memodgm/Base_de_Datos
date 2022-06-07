@@ -9,7 +9,7 @@ Ejercicio:
 
 
 - Comandos de definición de datos(DDL),Comandos de manipulación de datos (DML) y Comandos de control y seguridad de datos.
-- 
+
 
 # 2. Menciona 3 tipos de datos que existen: (valor .85)
 
@@ -20,7 +20,7 @@ char(n),varchar(n) y bigint.
 # 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
 
-DELETE, Borra una serie de filas de la tabla, en cambio, TRUNCATE elimina todas las filas de la tabla sin borrar la tabla.
+DELETE, Borra una serie de filas de la tabla, en cambio, TRUNCATE elimina rapidamente todas las filas de la tabla sin borrar la tabla.
 
 
 # 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
@@ -37,12 +37,13 @@ La diferencia es que VARChar guarda únicamente el espacio que uses , independie
 
 # 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
-
+Lenguaje de consulta estructurada. 
 
 
 
 # 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
+Es un editor visual de base de datos MySQL, que cuenta con un editor de diagramas.También, permite analizar visualmente esquemas que pueden exportarse desde distintos formatos  o  generar un script. 
 
 
 
