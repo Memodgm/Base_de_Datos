@@ -7,11 +7,26 @@ su esquema
 
 Ejercicio:
 
-1. ¿Qué es un DataWarehouse?(valor 2)
 
-2. Realiza un diseño del modelo en estrella (valor 2)
+# 1. ¿Qué es un DataWarehouse?(valor 2)
 
-3. Realiza un diseño del modelo copo de nieve (valor 2)
+Es un tipo de sistema de gestión de datos que reune y combina información valiosa proveninetes de diferentes origenes en un depósito de datos único y centralizado.Esto permite a las empresas almacenar, organizar y analizar grandes volúmenes de datos(superoir a una base de datos) para tomar mejores decisiones.
+
+
+
+# 2. Realiza un diseño del modelo en estrella (valor 2)
+
+
+
+
+
+# 3. Realiza un diseño del modelo copo de nieve (valor 2)
+
+
+
+
+
+
 
 
 ## Práctica 7
