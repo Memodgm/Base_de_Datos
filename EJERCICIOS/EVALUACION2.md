@@ -91,6 +91,6 @@ Fabricante: código de fabricante, nombre de fabricante.
 
 
 
-## Base de datos para MySQL
+## Base de datos TIENDA para MySQL
 
-https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
+[https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0](https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/2)
