@@ -41,7 +41,7 @@ Lenguaje de consulta estructurada.
 
 # 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
-Es un editor visual de base de datos MySQL, que cuenta con un editor de diagramas. Permite analizar visualmente esquemas que pueden exportarse desde distintos formatos  o  generar un script. También  desarrollo de software, administración y  diseño de bases de datos, gestión y mantenimiento para el sistema de BD. 
+Es un editor visual de base de datos MySQL, que cuenta con un editor de diagramas. Permite analizar visualmente esquemas que pueden exportarse desde distintos formatos  o  generar un script. También  desarrollo de software, administración de BD,  diseño de bases de datos, gestión y mantenimiento para el sistema de BD. 
 
 
 
