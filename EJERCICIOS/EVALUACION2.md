@@ -7,9 +7,7 @@ Ejercicio:
 
 # 1. Menciona los comandos DMl: (valor .85)
 
-
-- Comandos de definición de datos(DDL),Comandos de manipulación de datos (DML) y Comandos de control y seguridad de datos.
-
+- Select,Insert,Update y Delete. 
 
 # 2. Menciona 3 tipos de datos que existen: (valor .85)
 
@@ -20,7 +18,7 @@ char(n),varchar(n) y bigint.
 # 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
 
-DELETE, Borra una serie de filas de la tabla, en cambio, TRUNCATE elimina rapidamente todas las filas de la tabla sin borrar la tabla.
+DELETE, Borra  filas específicas de una tabla, en cambio, TRUNCATE elimina rapidamente todas las filas de la tabla sin borrar la tabla.
 
 
 # 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
