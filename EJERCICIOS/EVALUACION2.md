@@ -24,13 +24,13 @@ DELETE, Borra  filas específicas de una tabla, en cambio, TRUNCATE elimina rapi
 # 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
 
-Para establecer atributos de datos que no se puedan repetir.
+Para establecer atributos de un dato que no se puedan repetir en otros.
 
 
 # 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
 
-La diferencia es que VARChar guarda únicamente el espacio que uses , independientemente de que declares n cantidad, en cambio,CHAR guarda tanto el espacio que usas y el que declares.
+La diferencia es que VARChar guarda únicamente el espacio que uses , independientemente de que declares n cantidad, en cambio, CHAR guarda  el espacio que usas y el que declares.
 
 
 # 6. Defina brevemente el significado de las siglas SQL(valor .85)
@@ -41,7 +41,7 @@ Lenguaje de consulta estructurada.
 
 # 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
-Es un editor visual de base de datos MySQL, que cuenta con un editor de diagramas.También, permite analizar visualmente esquemas que pueden exportarse desde distintos formatos  o  generar un script. 
+Es un editor visual de base de datos MySQL, que cuenta con un editor de diagramas. Permite analizar visualmente esquemas que pueden exportarse desde distintos formatos  o  generar un script. También  desarrollo de software, administración y  diseño de bases de datos, gestión y mantenimiento para el sistema de BD. 
 
 
 
