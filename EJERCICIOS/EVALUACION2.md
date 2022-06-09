@@ -92,3 +92,5 @@ Fabricante: código de fabricante, nombre de fabricante.
 
 
 ## Base de datos para MySQL
+
+https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
