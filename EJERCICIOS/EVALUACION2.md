@@ -24,13 +24,13 @@ DELETE, Borra  filas específicas de una tabla, en cambio, TRUNCATE elimina rapi
 # 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
 
-Para establecer datos que no se puedan repetir.
+Para establecer atributos de datos que no se puedan repetir.
 
 
 # 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
 
-La diferencia es que VARChar guarda únicamente el espacio que uses , independientemente de que declares n cantidad, en cambio,CHAR guarda el espacio que usas y el que declares.
+La diferencia es que VARChar guarda únicamente el espacio que uses , independientemente de que declares n cantidad, en cambio,CHAR guarda tanto el espacio que usas y el que declares.
 
 
 # 6. Defina brevemente el significado de las siglas SQL(valor .85)
