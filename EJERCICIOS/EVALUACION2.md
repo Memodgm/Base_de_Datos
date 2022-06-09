@@ -83,7 +83,7 @@ Tienda de informática
 
 - Producto: código de producto, tipo de producto y precio del producto.
 
-- Fabricante: código de fabricante, marca de fabricante.
+- Fabricante: ID de fabricante, marca de fabricante.
 
 
 ## Modelo entidad/relación
