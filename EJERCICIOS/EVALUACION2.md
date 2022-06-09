@@ -61,8 +61,7 @@ Ejercicio:
 En un mapa conceptual presenta 3 gestores de bases de datos, sus características
 principales, las ventajas y desventajas. (valor 6)
 
-![3 gestores bd](https://user-images.githubusercontent.com/104279978/172489599-22e650a5-084e-4833-ace3-82e602438829.png)
-
+![3 egstres bien ](https://user-images.githubusercontent.com/104279978/172763142-4c959e75-34a5-4c17-95ea-3f996134a8a1.png)
 
 ## Práctica 6.
 ### Herramienta en línea y ejercicio necesarios para realizar las prácticas
