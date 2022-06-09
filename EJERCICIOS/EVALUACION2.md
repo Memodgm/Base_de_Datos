@@ -79,10 +79,16 @@ Tienda de informática
 
 
 
+Tienda de informática
 
-Modelo entidad/relación
+Producto: código de producto, tipo de producto y precio del producto
+Fabricante: código de fabricante, nombre de fabricante.
+
+
+## Modelo entidad/relación
+
+![modelo ER - tienda de informática](https://user-images.githubusercontent.com/104279978/172911403-550b67bc-957f-4e7f-9cc6-3730895e6075.jpg)
 
 
 
-
-Base de datos para MySQL
+## Base de datos para MySQL
