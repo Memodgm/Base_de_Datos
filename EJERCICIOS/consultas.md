@@ -1,5 +1,11 @@
 En la BD utilizada en clase realiza las siguientes consultas:
 
+Diagrama entidad relación de la  Editorial 
+
+![image](https://user-images.githubusercontent.com/104279978/172987416-02593e25-01d7-4302-acd9-618b4b5d8bc1.png)
+
+
+
 * La tabla empleado
 
 ![Sin título](https://user-images.githubusercontent.com/104279978/172028242-7f47e379-8fd5-4064-99dc-0af903644151.jpg)
