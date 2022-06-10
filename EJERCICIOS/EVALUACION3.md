@@ -25,6 +25,7 @@ Es un tipo de sistema de gestión de datos que reune y combina información vali
 
 # 3. Realiza un diseño del modelo copo de nieve (valor 2)
 
+![ejemplo easquema copo de nieve](https://user-images.githubusercontent.com/104279978/172983379-cc9cb8cd-bae2-47e0-a3e6-2c2da39b6c46.jpg)
 
 
 
