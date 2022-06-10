@@ -39,10 +39,17 @@ Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la ge
 
 Ejercicio:
 
-utilizando mi base de datos Tienda
+## Utilizando mi base de datos Tienda:
+
+
 https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/2
 
+
+
 # 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
+
+![consulta cacl prod](https://user-images.githubusercontent.com/104279978/172984626-5087fc65-177b-40bb-a13c-060c093b32ab.png)
+
 
 
 
