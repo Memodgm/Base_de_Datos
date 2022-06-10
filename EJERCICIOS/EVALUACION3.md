@@ -55,15 +55,33 @@ https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/2
 
 
 
-# 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
-también debe incluir los fabricantes que no tienen ningún producto. El resultado
-mostrará dos columnas, una con el nombre del fabricante y otra con el número de
-productos que tiene. Ordene el resultado descendentemente por el número de
-productos. (valor 4.5)
+# 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado también debe incluir los fabricantes que no tienen ningún producto. El resultado mostrará dos columnas, una con el nombre del fabricante y otra con el número de productos que tiene. Ordene el resultado descendentemente por el número de productos. (valor 4.5)
+
+
+![numero desc por cod prod](https://user-images.githubusercontent.com/104279978/172990895-595fa6e7-2deb-43d8-ae5c-cbd040d2699e.png)
+
+
+
+![id fabr desc cod pro](https://user-images.githubusercontent.com/104279978/172990993-c3fbf2eb-3ffa-4f18-a22f-897fd73f83bc.png)
+
+
+
+
+
+
+
+
+
+
+
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
+
+
+
+
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
