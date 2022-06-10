@@ -80,4 +80,4 @@ Diagrama entidad relación de la  Editorial
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/12
 
-Nota: se cambió el atrubuto titulo de revista.
+NOTA: a la tabla revista se le  cambió el atrubuto titulo por  titulorev.
