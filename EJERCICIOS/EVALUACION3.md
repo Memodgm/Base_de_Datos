@@ -10,11 +10,14 @@ Ejercicio:
 
 # 1. ¿Qué es un DataWarehouse?(valor 2)
 
-Es un tipo de sistema de gestión de datos que reune y combina información valiosa proveninetes de diferentes origenes en un depósito de datos único y centralizado.Esto permite a las empresas almacenar, organizar y analizar grandes volúmenes de datos(superoir a una base de datos) para tomar mejores decisiones.
+Es un tipo de sistema de gestión de datos que reune y combina información valiosa proveninetes de diferentes origenes en un depósito de datos único y centralizado.Esto permite a las empresas  realizar análisis , minería de datos, inteligencia artificial y Machine Learning, utilizando grandes volúmenes de datos(superior a una base de datos) para tomar mejores decisiones.
 
 
 
 # 2. Realiza un diseño del modelo en estrella (valor 2)
+
+
+![ejemplo esquema estrella](https://user-images.githubusercontent.com/104279978/172982476-5031b78e-7415-4465-b8a1-cfbf566a42cf.jpg)
 
 
 
