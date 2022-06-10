@@ -53,6 +53,9 @@ Diagrama entidad relación de la  Editorial
 * De la tabla revistas muestra las que sean de publicacion quincenal
 
 
+![rev per quince](https://user-images.githubusercontent.com/104279978/173128141-a267859e-b7d7-4b69-90ba-1f0537c9424a.png)
+
+
 
 
 
@@ -69,6 +72,6 @@ Diagrama entidad relación de la  Editorial
 
 
 
+https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/12
 
-https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
-
+Nota:se cambió el atrubuto titulo de revista.
