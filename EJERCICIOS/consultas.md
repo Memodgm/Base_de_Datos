@@ -29,8 +29,18 @@ Diagrama entidad relación de la  Editorial
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 
 
+![perid sucr rev](https://user-images.githubusercontent.com/104279978/173125577-0b1aa9b5-2b1e-42bc-8243-f1e13cec0f69.png)
+
+![ressulta perid sucr rev](https://user-images.githubusercontent.com/104279978/173125602-56a5361b-f8d4-4547-9b8c-b41a8fb01d0e.png)
+
+
+
+
 
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
+
+
+
 
 
 
@@ -38,15 +48,26 @@ Diagrama entidad relación de la  Editorial
 
 
 
+
+
+
 * De la tabla revistas muestra las que sean de publicacion quincenal
 
 
 
-* Muestra el nombre de ka revista que se hayan impreso despues del 30 de septiembre del 2021
+
+
+
+* Muestra el nombre de la revista que se hayan impreso despues del 30 de septiembre del 2021
+
+
 
 
 
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
+
+
+
 
 
 
