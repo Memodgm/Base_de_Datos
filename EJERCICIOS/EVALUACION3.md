@@ -86,3 +86,7 @@ precio medio y el número total de productos de los fabricantes que tienen un pr
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
 
+
+![max min avg mayor 200](https://user-images.githubusercontent.com/104279978/173117784-21a1c542-028d-44d6-b6f8-1a2b07d430f6.png)
+
+![RESULT  max min vg mayor](https://user-images.githubusercontent.com/104279978/173117815-acdadfe8-34d2-4065-a788-39f515a46b98.png)
