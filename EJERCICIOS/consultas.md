@@ -31,21 +31,20 @@ Diagrama entidad relación de la  Editorial
 
 ![perid sucr rev](https://user-images.githubusercontent.com/104279978/173125577-0b1aa9b5-2b1e-42bc-8243-f1e13cec0f69.png)
 
-![ressulta perid sucr rev](https://user-images.githubusercontent.com/104279978/173125602-56a5361b-f8d4-4547-9b8c-b41a8fb01d0e.png)
-
-
-
 
 
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
 
+![tit rev nombre apell](https://user-images.githubusercontent.com/104279978/173126981-dc208355-85ff-4287-947b-ba92758af96a.png)
 
 
 
 
 
 * En la tabla peridistas muestra solo los que escriban sobre cine
+* 
 
+![solo perd cine ](https://user-images.githubusercontent.com/104279978/173127510-c48ab486-5cc5-4b3a-b78c-c7c5f8858015.png)
 
 
 
