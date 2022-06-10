@@ -58,18 +58,11 @@ https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/2
 # 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado también debe incluir los fabricantes que no tienen ningún producto. El resultado mostrará dos columnas, una con el nombre del fabricante y otra con el número de productos que tiene. Ordene el resultado descendentemente por el número de productos. (valor 4.5)
 
 
-![numero desc por cod prod](https://user-images.githubusercontent.com/104279978/172990895-595fa6e7-2deb-43d8-ae5c-cbd040d2699e.png)
+![desc count inner](https://user-images.githubusercontent.com/104279978/173114177-5b7feff0-699a-4931-b4b7-6a4db011e5af.png)
 
 
 
-![id fabr desc cod pro](https://user-images.githubusercontent.com/104279978/172990993-c3fbf2eb-3ffa-4f18-a22f-897fd73f83bc.png)
-
-
-
-
-
-
-
+![bs resultdesc count inner](https://user-images.githubusercontent.com/104279978/173114200-b7d64526-8ed5-4dc0-a61f-efd47291f50e.png)
 
 
 
@@ -80,6 +73,11 @@ uno de los fabricantes. El resultado mostrará el nombre del fabricante junto co
 datos que se solicitan. (valor 4.5)
 
 
+
+![precio max min avg](https://user-images.githubusercontent.com/104279978/173116811-906a57c6-d38f-432f-b70a-ec6287f99810.png)
+
+
+![res max min avg](https://user-images.githubusercontent.com/104279978/173116838-4b98212d-cedf-4439-abf1-5d9346e97f78.png)
 
 
 
