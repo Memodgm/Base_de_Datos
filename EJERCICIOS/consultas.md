@@ -63,10 +63,16 @@ Diagrama entidad relación de la  Editorial
 * Muestra el nombre de la revista que se hayan impreso despues del 30 de septiembre del 2021
 
 
+![revista fecha mayor a ](https://user-images.githubusercontent.com/104279978/173128814-c7e801c0-829b-45e0-bdd0-b392bd5b154c.png)
+
 
 
 
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
+
+![rev ejm  no pag](https://user-images.githubusercontent.com/104279978/173129510-83b937eb-263e-4d17-8bea-5922c1f36500.png)
+
+
 
 
 
@@ -74,4 +80,4 @@ Diagrama entidad relación de la  Editorial
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/12
 
-Nota:se cambió el atrubuto titulo de revista.
+Nota: se cambió el atrubuto titulo de revista.
