@@ -6,6 +6,8 @@
 ● Crea el script para la base de datos.
 Proveedores
 
+
+
 Tenemos que diseñar una base de datos sobre proveedores y disponemos de
 la siguiente información:
 
@@ -29,3 +31,16 @@ precio y categoría.
 un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
+
+
+
+
+
+Proveedores: nombre, dirección, ciudad, provincia y código de proveedor. 
+
+Piezas: codigo de pieza, nombre, color, precio y categoría.
+
+
+
+
+
