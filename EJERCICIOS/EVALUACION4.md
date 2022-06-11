@@ -12,7 +12,7 @@ Creación de la base de datos : 9 puntos.
 
 Creación de los Disparadores(Triggers): 9 puntos.
 
-Tabla alumnos:
+## Tabla alumnos:
 
 ● id (entero sin signo)
 
