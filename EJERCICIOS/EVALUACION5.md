@@ -59,6 +59,10 @@ https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
 ## Subconsultas (En la cláusula WHERE)
 ## 1. Devuelve todos los productos del fabricante Lenovo. (Sin utilizar INNER JOIN).
 
+![mi version productos solso lenovo](https://user-images.githubusercontent.com/104279978/173168700-516a29cd-e8cd-4854-9a95-9aa9ce23369e.png)
+
+
+![result solo fab lenovo ](https://user-images.githubusercontent.com/104279978/173168702-3a0481bd-6aaa-4e09-9913-02741395bfe5.png)
 
 
 
