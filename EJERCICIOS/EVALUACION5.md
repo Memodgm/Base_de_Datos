@@ -48,14 +48,17 @@ https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
 ## 4. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de todos los productos de la base de datos.
 
 
+![tipo precio nomb fab](https://user-images.githubusercontent.com/104279978/173168199-be049820-d4d9-42e4-9c72-357af23f50cd.png)
 
 
 
+![resl tipo precio marca](https://user-images.githubusercontent.com/104279978/173168202-02c7de01-710a-4851-9440-4a74883ca3fd.png)
 
 
 
 ## Subconsultas (En la cláusula WHERE)
 ## 1. Devuelve todos los productos del fabricante Lenovo. (Sin utilizar INNER JOIN).
+
 
 
 
