@@ -48,7 +48,7 @@ https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
 ## 4. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de todos los productos de la base de datos.
 
 
-![tipo precio nomb fab](https://user-images.githubusercontent.com/104279978/173168199-be049820-d4d9-42e4-9c72-357af23f50cd.png)
+![correcion ](https://user-images.githubusercontent.com/104279978/173168835-3f3c4e31-77fc-4246-8e5e-23e0a4680289.png)
 
 
 
