@@ -11,7 +11,8 @@ Diagrama tienda
 
 
 ## Base de datos TIENDA 
-https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0](https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/2
+
+https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/2
 
 
 ## 1. Lista el nombre de todos los productos que hay en la tabla producto.
