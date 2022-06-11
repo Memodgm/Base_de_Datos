@@ -70,10 +70,7 @@ https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
 
 ## 2. Devuelve todos los datos de los productos que tienen el mismo precio que elproducto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
 
-![prodc igual mas caro lenovo](https://user-images.githubusercontent.com/104279978/173169107-0f135596-bf05-4f22-954d-01d13b5937df.png)
 
-
-![result prod mas caro lenovo ](https://user-images.githubusercontent.com/104279978/173169109-0cdaab10-2da2-4d80-afdd-0774b11bb7cc.png)
 
 
 
