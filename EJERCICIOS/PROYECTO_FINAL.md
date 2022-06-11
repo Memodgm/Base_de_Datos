@@ -36,11 +36,13 @@ un código de categoría único.
 
 
 
-Proveedores: nombre, dirección, ciudad, provincia y código de proveedor. 
+##  Datos para el modelo y base de datos PROVEEDORES:
 
-Piezas: codigo de pieza, nombre, color, precio y categoría.
+Proveedores:  código de proveedor, nombre, dirección, ciudad, provincia , cantidad de pieza sumistrada y fecha de suministro. 
 
+Piezas: codigo de pieza, nombre, color, precio y categoría de pieza.
 
+Categoría: codigo de categoria y nombre.
 
 
 
