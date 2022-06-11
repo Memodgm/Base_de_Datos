@@ -14,16 +14,42 @@ Diagrama tienda
 https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
 
 
-Lista el nombre de todos los productos que hay en la tabla producto.
+## 1. Lista el nombre de todos los productos que hay en la tabla producto.
 
 
-## 1. Lista los nombres y los precios de todos los productos de la tabla producto.
-
-## 2. Lista todas las columnas de la tabla producto.
+![todos prod ](https://user-images.githubusercontent.com/104279978/173167190-fb743e81-975d-4eb5-a1a4-680f0b8c2203.png)
 
 
-## 3. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de
-todos los productos de la base de datos.
+![result todos prod](https://user-images.githubusercontent.com/104279978/173167194-b1f49367-0a5c-4ca1-893b-00d1af90b9f3.png)
+
+
+
+
+## 2. Lista los nombres y los precios de todos los productos de la tabla producto.
+
+
+![nomb precio tod prod](https://user-images.githubusercontent.com/104279978/173167278-fd7961e4-8ab4-444c-b944-5a34af376bbe.png)
+
+
+![result nomb precio tod prod](https://user-images.githubusercontent.com/104279978/173167281-bf5495c0-1c83-4f7c-a8a4-9b6378b82da0.png)
+
+
+
+## 3. Lista todas las columnas de la tabla producto.
+
+
+![tod los atrib prod](https://user-images.githubusercontent.com/104279978/173167438-a6f133a5-5381-4908-8db5-55ebffdfc89e.png)
+
+
+![resl todo atrib prod ](https://user-images.githubusercontent.com/104279978/173167453-30e8ce13-f36a-4378-9fcb-12f90d539b3e.png)
+
+
+
+## 4. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de todos los productos de la base de datos.
+
+
+
+
 
 
 
@@ -33,7 +59,11 @@ todos los productos de la base de datos.
 
 
 
+
+
 ## 2. Devuelve todos los datos de los productos que tienen el mismo precio que elproducto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
+
+
 
 
 
