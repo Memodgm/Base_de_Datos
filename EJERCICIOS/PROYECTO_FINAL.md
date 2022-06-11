@@ -38,7 +38,7 @@ un código de categoría único.
 
 ##  Datos para el modelo y base de datos PROVEEDORES:
 
-Proveedores:  código de proveedor, nombre, dirección, ciudad, provincia , cantidad de pieza sumistrada y fecha de suministro. 
+Proveedores:  código de proveedor, nombre, dirección, ciudad, provincia , cantidad sumistrada y fecha de suministro. 
 
 Piezas: codigo de pieza, nombre, color, precio y categoría de pieza.
 
