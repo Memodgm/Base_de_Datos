@@ -70,6 +70,10 @@ https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
 
 ## 2. Devuelve todos los datos de los productos que tienen el mismo precio que elproducto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
 
+![prodc igual mas caro lenovo](https://user-images.githubusercontent.com/104279978/173169107-0f135596-bf05-4f22-954d-01d13b5937df.png)
+
+
+![result prod mas caro lenovo ](https://user-images.githubusercontent.com/104279978/173169109-0cdaab10-2da2-4d80-afdd-0774b11bb7cc.png)
 
 
 
@@ -77,6 +81,10 @@ https://www.db-fiddle.com/f/3bqZfCCv4C9cAkyahU7mQb/0
 
 ## 3. Lista el nombre del producto más caro del fabricante Lenovo.
 
+![mas caro de lenovo](https://user-images.githubusercontent.com/104279978/173169277-3ea921bc-c5b3-41eb-a047-5f29f0460d27.png)
+
+
+![result mas caro lenovo](https://user-images.githubusercontent.com/104279978/173169290-f5c7d7f7-076e-4bce-8af0-28979e8edb28.png)
 
 
 
