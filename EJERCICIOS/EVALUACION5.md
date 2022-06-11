@@ -2,6 +2,7 @@
 ### Operaciones en una base de datos.
 Objetivo: Demostrar las operaciones que se realizan en una base de datos, aplicar el modelo relacional y el lenguaje SQL
 
+
 Evaluación: Para poder tener correcto cada ejercicio deberán de mostrar el resultado que se da en cada respuesta.
 
 
