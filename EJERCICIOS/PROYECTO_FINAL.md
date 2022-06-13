@@ -46,3 +46,7 @@ Categoría: codigo de categoria y nombre.
 
 
 
+# modelo entidad-relación Proveedores
+
+
+![diagrama ER - PROVEEDORES proy final (5)](https://user-images.githubusercontent.com/104279978/173272448-c57ff424-aa68-450c-83ce-ad134b36744a.jpg)
